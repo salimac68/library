@@ -1,0 +1,88 @@
+.navbar{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(30, 30, 83);
+    font-weight: bolder;
+    color: white;
+    height: 20%;
+}
+.content{
+background-color: rgb(12, 12, 37);
+padding: 0px;
+margin: 0px;
+height: 200px;
+color: white;
+}
+h1{
+    padding: 40px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.boxed{
+    height: 70px;
+    width: 250px;
+    background-color: rgb(30, 30, 83);
+    float: right;
+   margin-right: 50px;
+   margin-top: 30px;
+}
+.contain{
+    background-color:whitesmoke;
+     
+    /* width: 90%; */
+     padding: 50px; 
+    margin-top:-70px;
+    margin-right: 50px; 
+    margin-left: 50px;
+} 
+body{
+    background-color:rgb(202, 199, 199) ; 
+}
+.media{
+    margin-left: 50px;
+}
+h4{
+    font-family: sans-serif;
+}
+.nav-link{
+    color: white;
+    font-family: sans-serif;
+}
+.btn{
+    text-align: right;
+    margin-left: 1080px;
+    /* margin-bottom: 30px; */
+    padding-right: 30px;
+}
+.btn1{
+    background-color: blue;
+}
+.btn2{
+    background-color: rgb(34, 34, 196);
+     color: white; 
+}
+.btn3{
+    background-color: darkred;
+    color: white;
+}
+.footer{
+    font-size: 20px;
+}
+.circular--square{
+    border-radius: 50%;
+    /* width: 1150px; */
+}
+.media-body{
+padding-left: 20px;
+}
+.link{
+    background-color: rgb(99, 97, 97);
+    color: white;
+    padding: 5px;
+}
+p{
+    font-weight: 500px;
+}
+.media-body a{
+    color: white;
+}

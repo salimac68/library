@@ -1,0 +1,62 @@
+.navbar{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(30, 30, 83);
+    font-weight: bolder;
+    color: white;
+    height: 20%;
+}
+.nav-link{
+    color: white;
+    font-family: sans-serif;
+}
+.content{
+    background-color: rgb(12, 12, 37);
+    padding: 0px;
+    padding-top: 0px; 
+    height: 200px;
+    color: white;
+
+    }
+body{
+    /* background-color:rgb(252, 247, 247) ; */
+    background-color:rgb(202, 199, 199) ;
+    margin: 0px;
+    } 
+    .box{
+        width:300px;
+        /* box-shadow: rgb(15, 15, 15); */
+        background: rgb(243, 241, 237);
+        padding:5px;
+        margin: 8% auto 0;
+       box-sizing: border-box;
+       /* box-shadow:darkblue; */
+       border-radius: 10px;
+        text-align: center;
+    }  
+    h1{
+        text-align: center;
+        padding-top: 50px;
+        font-size: 50px;
+    } 
+    h2{
+        font-size: 30px;
+    }
+    button{
+        background-color: rgb(74, 125, 201);
+        color: white;
+    }
+    .btn1{
+        background-color: blue;
+    }
+    .btn2{
+        background-color: rgb(34, 34, 196);
+         color: white; 
+    }
+    .btn3{
+        background-color: darkred;
+        color: white;
+    }
+    .footer{
+        font-size: 20px;
+    }
